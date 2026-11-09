@@ -1,0 +1,92 @@
+# Credits for https://pastebin.com/cyKBv0qK
+# Bilibili PCDN / Maoer FM
+0.0.0.0 solseedr.cn
+0.0.0.0 solseed.cn
+# Pai Ou Cloud PCDN
+0.0.0.0 ppgslb.cn
+0.0.0.0 eeeam.com
+0.0.0.0 pocedsgslb.com
+0.0.0.0 paigod.work
+0.0.0.0 scwl.cn
+0.0.0.0 paisine.com
+0.0.0.0 pplabs.com
+0.0.0.0 ppgslb.com
+0.0.0.0 ppio.com
+0.0.0.0 ppio.cn
+0.0.0.0 ppos.com
+0.0.0.0 paicosine.com
+0.0.0.0 pai-net.work
+0.0.0.0 dddfe.com
+0.0.0.0 demoforge.site
+0.0.0.0 ppiocloud.site
+0.0.0.0 ppio.online
+0.0.0.0 ppinfra.com
+0.0.0.0 ppiocdn.com
+0.0.0.0 ppiocdn.cn
+0.0.0.0 nexusedgeio.com
+0.0.0.0 pyrcms.com
+0.0.0.0 pyedsgslb.com
+0.0.0.0 ppio.work
+0.0.0.0 thefirstchain.com
+0.0.0.0 paigpu.com
+0.0.0.0 gncrr.live
+0.0.0.0 ppio.cloud
+0.0.0.0 scsd.cn
+0.0.0.0 xyxyzz.com
+0.0.0.0 ppio.net.cn
+ 
+## Bilibili PCDN Blockage
+0.0.0.0 mcdn.bilivideo.cn
+0.0.0.0 mcdn.bilivideo.com
+0.0.0.0 ppio.bilivideo.com
+0.0.0.0 kodo.bilivideo.com
+ 
+0.0.0.0 edge.mountaintoys.cn
+0.0.0.0 abcdefgaijkl.com
+0.0.0.0 wiebaijitamo.com
+0.0.0.0 abcdegghijkl.com
+0.0.0.0 opqrsduvwxyz.com
+0.0.0.0 zyxwvutsrqpo.com
+0.0.0.0 clipspacexyy.com
+0.0.0.0 netvisorhub.com
+0.0.0.0 lmnopqrstuvw.com
+0.0.0.0 quantazoomz.com
+0.0.0.0 stormfluxixx.com
+0.0.0.0 datapixelzzx.com
+0.0.0.0 ijklmnopqrst.com
+0.0.0.0 flexcloudyz.com
+0.0.0.0 dooquuequezi.com
+0.0.0.0 taishoopecei.com
+0.0.0.0 qrstuvwxyzab.com
+0.0.0.0 zeicaefiegoh.com
+0.0.0.0 zonerushappz.com
+0.0.0.0 techvortexz1.com
+0.0.0.0 alphawebzzz.com
+0.0.0.0 gliderboxxyy.com
+0.0.0.0 ahdohpiechei.com
+0.0.0.0 xionguamaqui.com
+0.0.0.0 gaetausohyei.com
+0.0.0.0 roongeimahwo.com
+0.0.0.0 kaiwaijaicai.com
+ 
+0.0.0.0 ourdvsss.com
+ 
+# Bilibili Telemetry, crazy sending speed...
+DOMAIN,data.bilibili.com
+DOMAIN,dataflow.biliapi.com
+DOMAIN,cm.bilibili.com
+ 
+# Bilibili PCDN (ZhenXuanYun 臻选云（湖北）科技有限公司)
+0.0.0.0 zhenxyun.cn
+0.0.0.0 zhenxcloud.cn
+0.0.0.0 zhenidc.cn
+0.0.0.0 zxycdn.cn
+0.0.0.0 zhenxuanidc.cn
+0.0.0.0 zhenxuancdn.cn
+0.0.0.0 zhenxuancloud.com
+0.0.0.0 zhenxyun.cn
+ 
+# PCDN Blockage
+DOMAIN-KEYWORD,smogfly
+DOMAIN-KEYWORD,wuchuyun
+DOMAIN-KEYWORD,wuchucloud
